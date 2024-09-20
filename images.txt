@@ -6,5 +6,5 @@
 #python
 #filebrowser/filebrowser
 #jellyfin/jellyfin
-#ryshe/terraria
+ryshe/terraria
 ghcr.io/open-webui/open-webui:main
