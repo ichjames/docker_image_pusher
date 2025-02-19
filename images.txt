@@ -6,6 +6,10 @@
 #python
 #filebrowser/filebrowser
 #jellyfin/jellyfin
-ryshe/terraria
-ghcr.io/open-webui/open-webui:main
-ollama/ollama
+#ryshe/terraria
+#ghcr.io/open-webui/open-webui:main
+#ollama/ollama
+langgenius/dify-web:1.0.0
+langgenius/dify-api:1.0.0
+langgenius/dify-api:1.0.0
+
