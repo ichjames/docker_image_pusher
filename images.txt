@@ -12,3 +12,4 @@
 #langgenius/dify-web
 #langgenius/dify-api
 netdata/netdata
+ghcr.io/varbhat/exatorrent
