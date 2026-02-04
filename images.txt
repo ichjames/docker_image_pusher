@@ -13,3 +13,4 @@ ollama/ollama
 #langgenius/dify-api
 #netdata/netdata
 #ghcr.io/varbhat/exatorrent
+gitlab/gitlab-ce:latest
