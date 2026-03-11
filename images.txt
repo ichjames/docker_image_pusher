@@ -14,3 +14,4 @@ ollama/ollama
 #netdata/netdata
 #ghcr.io/varbhat/exatorrent
 gitlab/gitlab-ce:latest
+ghcr.io/openclaw/openclaw:latest
